@@ -2,6 +2,7 @@ package first;
 
 import java.util.*;
 //импорт необходимого компонента, который используется в программе.
+//Делает первый символ пароля прописным.
 import static java.lang.Character.toUpperCase;
 
 class Password{
