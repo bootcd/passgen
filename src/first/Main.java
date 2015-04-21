@@ -7,7 +7,7 @@ import static java.lang.Character.toUpperCase;
 
 class Password{
     
-    char[]Sogl = {'b' , 'c' , 'd' , 'f' , 'g' , 'h' , 'k' , 'l' , 'p' , 'j' ,'s'};
+    char[]Sogl = {'b' , 'c' , 'd' , 'f' , 'g' , 'h' , 'k' , 'l' , 'p' , 'j' ,'s','x','z','q','r','t'};
     char[]Glas = {'a','e','i','u','o'};
     char[]Digits= {'0','1','2','3','4','5','6','7','8','9'};
     Random  random = new Random();
